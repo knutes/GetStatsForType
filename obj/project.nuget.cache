@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QegzNcWxTAmDf1yrSPoolvw0YPBJPXGhs9J06qSNcVshzj/O88ZbDHD347E7nDsNrEx1e2Ww/oQ2V/jBH4IM4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\austin\\source\\repos\\Assignment7GetStatsForType\\Assignment7GetStatsForType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\austin\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\austin\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\austin\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\austin\\.nuget\\packages\\awssdk.core\\3.7.0\\awssdk.core.3.7.0.nupkg.sha512",
+    "C:\\Users\\austin\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0\\awssdk.dynamodbv2.3.7.0.nupkg.sha512",
+    "C:\\Users\\austin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
